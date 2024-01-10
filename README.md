@@ -1,5 +1,5 @@
 # Bert-VITS2-2.2-models-jp-6-speaker-tts
-Text-to-Speech AI Model (bert-vits2-2.2)
+Download Model link (bert-vits2-2.2)
 license: mit
 
 ・文章转语音人工智能模型（bert-vits2-2.2）能够将文本转换为声音进行朗读。语音合成<br>
