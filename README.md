@@ -48,12 +48,6 @@ How to use BERT vits2 on your local computer.
 </a>
 
 
-   <audio controls>
-        <source src="audio.mp3" type="audio/mp3">
-        Your browser does not support the audio element.
-    </audio>
-
-
 
 <hr style="border-top: 8px double orange;background-color: rgb(232, 243, 131);">
 
