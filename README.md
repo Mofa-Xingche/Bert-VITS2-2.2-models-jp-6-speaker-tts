@@ -1,15 +1,7 @@
 # Bert-VITS2-2.2-models-jp-6-speaker-tts
 Text-to-Speech AI Model (bert-vits2-2.2)
 license: mit
-language:
-- en
-pipeline_tag: text-to-speech
-tags:
-- bert-vits2
-- female
-- madoka
-- tts
----
+
 ・文章转语音人工智能模型（bert-vits2-2.2）能够将文本转换为声音进行朗读。语音合成<br>
 ・Text-to-Speech Artificial Intelligence Model (bert-vits2-2.2)　<br>
 ・記事音声合成人工知能モデル (bert-vits2-2.2) は、テキストを音声に変換して読み上げることができます。<br>
@@ -175,3 +167,12 @@ speaker_id
 "tomoe": 5
 
 </pre>
+language:
+- en
+pipeline_tag: text-to-speech
+tags:
+- bert-vits2
+- female
+- madoka
+- tts
+---
