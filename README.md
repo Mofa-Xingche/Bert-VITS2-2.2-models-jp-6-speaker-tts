@@ -35,7 +35,7 @@ How to use BERT vits2 on your local computer.
 "tomoe": 5
 <br>
 
-<a href="https://huggingface.co/Mofa-Xingche/bert-vits2-2.2-models-jp-6-speaker-tts/tree/main"><h3><font color="blue">Model Download Page</font></h3></a>
+<h3><a href="https://huggingface.co/Mofa-Xingche/bert-vits2-2.2-models-jp-6-speaker-tts/tree/main"><font color="blue">Model Download Page</font></a></h3>
 
 <b>Sample Voices🔊  &nbsp;"The person in the audio🔊 and the image📷 are unrelated."</b>
 <hr style="border-top: 8px double orange;background-color: rgb(232, 243, 131);">
