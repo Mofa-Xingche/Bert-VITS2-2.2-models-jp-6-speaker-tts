@@ -42,7 +42,7 @@ How to use BERT vits2 on your local computer.
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/-3p7veiROnpO28_0Mqvj4.png)
 
 <audio controls src="https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/JF1dLceolXuuZyyXghNR5.wav"></audio>
-![Audio Example]("https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/JF1dLceolXuuZyyXghNR5.wav")
+![audio/wav]("https://cdn-uploads.huggingface.co/production/uploads/64cc8ece0bf3949c692e00c8/JF1dLceolXuuZyyXghNR5.wav")
 <a href="https://huggingface.co/Mofa-Xingche/bert-vits2-2.2-models-jp-6-speaker-tts/resolve/main/SampleVoice_0_gogogo.wav?download=true">
 🔊Sample voice DL link  Sample Voice text(これは合成した音声です。。まさに夢が人生そのものになる、人生はあなたの夢の大きさで測れるだろう。うふふ)
 </a>
